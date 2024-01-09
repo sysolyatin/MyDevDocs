@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="dd" name="My Dev Docs"
+                  start-page="links.md">
+
+    <toc-element topic="links.md"/>
+    <toc-element topic="symbols.md"/>
+    <toc-element topic="dev.md">
+        <toc-element topic="vue.md"/>
+        <toc-element topic="js.md"/>
+        <toc-element topic="c-sharp.md"/>
+    </toc-element>
+    <toc-element topic="sysadmin.md">
+        <toc-element topic="docker-windows.md"/>
+        <toc-element topic="ubuntu-time.md"/>
+        <toc-element topic="ubuntu-docker.md"/>
+        <toc-element topic="systemd.md"/>
+        <toc-element topic="mikrotik-vpn-server.md"/>
+        <toc-element topic="mikrotik-vpn.md"/>
+        <toc-element topic="realtek-vlan.md"/>
+        <toc-element topic="ufw.md"/>
+        <toc-element topic="xen.md"/>
+    </toc-element>
+    <toc-element topic="showdev.md">
+        <toc-element topic="reaper.md"/>
+    </toc-element>
+</instance-profile>
