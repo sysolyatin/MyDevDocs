@@ -6,6 +6,7 @@
         <primary-color>halloween</primary-color>
         <custom-favicons>logo.svg</custom-favicons>
         <header-logo>logo.svg</header-logo>
+        <product-web-url>https://dev.sysolyatin.com</product-web-url>
     </variables>
     <build-profile instance="dd">
         <variables>
