@@ -21,4 +21,8 @@ dotnet ef migrations add AddBlogCreatedTimestamp
 ```C#
 date.ToString("dd.MM.yyyy")
 Request.Headers["X-Forwarded-For"].First();
+
+// Получить русское название дня недели
+CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetShortestDayName(DateTime.Now.DayOfWeek);
+CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName(DateTime.Now.DayOfWeek)
 ```
