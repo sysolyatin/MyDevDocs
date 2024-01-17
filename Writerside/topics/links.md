@@ -16,6 +16,8 @@
 - [Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates)
 - [Vue.js](https://v3.ru.vuejs.org/) RU
 - [Bijou](https://andhart.github.io/bijou/) - очень легкий css фреймворк
+- [tingle.js](https://tingle.robinparisi.com/) - модальные окна
+- [Line Awesome](https://icons8.com/line-awesome) - шрифтовые иконки
 
 ## Стоки
 
