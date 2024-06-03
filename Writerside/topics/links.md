@@ -23,6 +23,8 @@
 
 - [NO COPYRIGHT MOTION GRAPHICS](https://www.youtube.com/channel/UCy_cwHiQYE0ZAzXP5vPXzJA)
 - [3D-модели для печати](https://www.thingiverse.com/)
+- [Музыка для видео](https://tunetank.com/track/5632-lilac/)
+- [Футажи на ютубе](https://www.youtube.com/@if_vfxtv5411/videos)
 
 ## Полезные библиотеки
 

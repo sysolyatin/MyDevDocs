@@ -16,7 +16,9 @@
         <toc-element topic="c-sharp.md">
             <toc-element topic="editor-templates.md"/>
         </toc-element>
+        <toc-element topic="rsa.md"/>
     </toc-element>
+    <toc-element topic="Tilda.md"/>
     <toc-element topic="sysadmin.md">
         <toc-element topic="nginx.md">
             <toc-element topic="fancy.md"/>
