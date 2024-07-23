@@ -24,8 +24,10 @@
             <toc-element topic="letsencrypt.md"/>
             <toc-element topic="fancy.md"/>
         </toc-element>
-        <toc-element topic="nextcloud.md"/>
-        <toc-element topic="nextcloud-telegram-2fa.md"/>
+        <toc-element topic="nextcloud.md">
+            <toc-element topic="nextcloud-docker.md"/>
+            <toc-element topic="nextcloud-telegram-2fa.md"/>
+        </toc-element>
         <toc-element topic="docker-windows.md"/>
         <toc-element topic="ubuntu-time.md"/>
         <toc-element topic="ubuntu-docker.md"/>
