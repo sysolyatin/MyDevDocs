@@ -12,7 +12,7 @@ sudo apt install certbot python3-certbot-nginx
 Все сайты должны быть описаны в своем файле с названием домена, например
 
 ```Bash
-/etc/nginx/sites-available/example.com
+/etc/nginx/sites-enabled/example.com
 ```
 
 Пример конфига сайта для проксирования на внутреннее приложение
