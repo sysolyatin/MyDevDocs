@@ -45,3 +45,15 @@ dropFileZone.on('drag dragstart dragend dragover dragenter dragleave drop', func
         }
     });
 ```
+
+## Открыть ссылку в новой вкладке
+
+```Javascript
+function openInNewTab(href) {
+  Object.assign(document.createElement('a'), {
+    target: '_blank',
+    rel: 'noopener noreferrer',
+    href: href,
+  }).click();
+}
+```
