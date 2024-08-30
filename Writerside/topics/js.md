@@ -57,3 +57,21 @@ function openInNewTab(href) {
   }).click();
 }
 ```
+
+## Мигнуть элементом один раз
+
+```Javascript
+$('input').addClass('flash');
+setTimeout(function(){
+  $('input').removeClass('flash');
+}, 500);
+```
+
+Для плавности можно сделать фейд в CSS:
+
+```CSS
+.flash {
+    background: #c3e8d6;
+    transition: all 0.5s ease;
+}
+```
