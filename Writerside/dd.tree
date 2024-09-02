@@ -13,6 +13,7 @@
             <toc-element topic="js.md"/>
             <toc-element topic="standart-web-fonts.md"/>
             <toc-element topic="vue.md"/>
+            <toc-element topic="timeline.md"/>
         </toc-element>
         <toc-element topic="db.md">
             <toc-element topic="mssql-size.md"/>
