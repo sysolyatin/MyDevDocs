@@ -75,3 +75,14 @@ setTimeout(function(){
     transition: all 0.5s ease;
 }
 ```
+
+## Отслеживание изменения размеров div
+
+```Javascript
+const observer = new ResizeObserver(entries => {
+  const {width, height} = entries[0].contentRect;
+  console.log(`Изменились размеры: ${width}x${height}`);
+});
+
+observer.observe(document.querySelector('#divToWatch'));
+```
